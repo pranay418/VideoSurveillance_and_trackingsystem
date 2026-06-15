@@ -85,7 +85,7 @@ When integrated with authorized law enforcement or security databases, the syste
 ├── simple_facerec.py
 ├── data_handling.py
 └── README.md
-
+```
 Workflow
 CCTV Camera Feed
         ↓
