@@ -86,7 +86,9 @@ When integrated with authorized law enforcement or security databases, the syste
 ├── data_handling.py
 └── README.md
 ```
+
 Workflow
+
 CCTV Camera Feed
         ↓
 Face Detection
@@ -102,7 +104,10 @@ Alert Generation
 Database Logging
         ↓
 Dashboard Display
+
+
 Future Enhancements
+
 Multi-camera tracking
 Cloud database integration
 Mobile application support
@@ -110,6 +115,8 @@ Email/SMS alert notifications
 AI-based suspicious activity detection
 Real-time analytics dashboard
 Heatmap visualization of movement patterns
+
+
 Disclaimer
 
 This project is intended for educational, research, and authorized security applications only. Any deployment involving personal data or facial recognition must comply with applicable privacy, data protection, and surveillance laws and regulations.
